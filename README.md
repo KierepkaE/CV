@@ -1,4 +1,4 @@
-## Your Name
+## Edyta Kierepka
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -23,18 +23,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (24/06/2019 to 11/10/2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The State Higher Vocational School in Ciechanow / College (10/2015 to 07/2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Nursing
 
 #### Any other qualifications
 
@@ -42,12 +40,14 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Company Name** (start*date to end_date)
+\_Your job title*
+
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Company Name** (start*date to end_date)
+\_Your job title*
+
 - Any experience relevent to software development
 
 ## Hobbies
