@@ -30,7 +30,7 @@ As I was studying towards my Nursing degree I had to team up with the other stud
 
 #### Software Developer Bootcamp: Makers Academy
 
-16-week course, number 1 bootcamp in Europe
+16-week course | number 1 bootcamp in Europe
 
 ## Experience
 
