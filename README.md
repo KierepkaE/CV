@@ -13,6 +13,10 @@ Consider skills relevent to software development. Then consider your best skills
 Before I joined Makers Academy I was learning how to code on my own. Attending Codebar workshops every week and even made it to GDG DevFest London 2018 conference.
 I was creating small applications using React and simple websites using HTML, CSS, and pure JavaScript. I had no idea how to test my code at that time.
 
+#### Team Work
+
+As I was studying towards my Nursing degree I had to team up with the other students to work together during our practical classes. Without each other help and cooperation, we wouldn't do our job as a nurse. I realized that time that big part of my medical knowledge comes from learning from working with the other people and not only reading the book or articles.
+
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
