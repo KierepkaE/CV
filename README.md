@@ -39,9 +39,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Nursing
 
-#### Any other qualifications
+#### Software Developer Bootcamp: Makers Academy
 
-That in some arguable way make you a better software developer or well-rounded person
+16-week course, number 1 bootcamp in Europe
 
 ## Experience
 
