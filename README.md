@@ -8,11 +8,10 @@ The most thrilling thing about tech is that it has no limits - exactly the same 
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Development Projects
 
-- Experience
-- Achievements
-- Evidence
+Before I joined Makers Academy I was learning how to code on my own. Attending Codebar workshops every week and even made it to GDG DevFest London 2018 conference.
+I was creating small applications using React and simple websites using HTML, CSS, and pure JavaScript. I had no idea how to test my code at that time.
 
 #### Another Skill
 
