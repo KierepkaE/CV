@@ -31,7 +31,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### The State Higher Vocational School in Ciechanow / College (10/2015 to 07/2018)
+#### The State Higher Vocational School in Ciechanow (10/2015 to 07/2018)
 
 - Nursing
 
