@@ -1,6 +1,8 @@
 ## Edyta Kierepka
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a creative and passioned about everything I do women that always change her dreams to her goals.
+For over one year I am trying to put my vision in the code that I'm learning.
+The most thrilling thing about tech is that it has no limits - exactly the same as my imagination!
 
 ## Skills
 
