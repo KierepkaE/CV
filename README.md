@@ -17,14 +17,14 @@ As I was studying towards my Nursing degree I had to team up with the other stud
 
 ## Education
 
-#### Makers Academy (24/06/2019 to 11/10/2019)
+#### Makers Academy (June 2019 to October 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### The State Higher Vocational School in Ciechanow (10/2015 to 07/2018)
+#### The State Higher Vocational School in Ciechanow (2015 to 2018)
 
 - Nursing
 
