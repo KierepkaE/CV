@@ -24,7 +24,7 @@ As I was studying towards my Nursing degree I had to team up with the other stud
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### The State Higher Vocational School in Ciechanow (2015 to 2018)
+#### The State Higher Vocational School in Ciechanow (October 2015 to June 2018)
 
 - Nursing
 
@@ -37,6 +37,10 @@ As I was studying towards my Nursing degree I had to team up with the other stud
 **Horse Riding Instructor** (2013 to 2015)
 
 Responsible for teaching small children horse riding and grooming horses - brushing them, taking them for a walk in the forest. Some of my students were disabled or were so small they didn't learn how to speak yet!
+
+**Waitress,London** (July 2018 to June 2019)
+
+Responsible for meeting and greeting customers and taking orders. Communicating with other stuff also kitchen stuff. Advising customers on meal and drinks choices. Resolving complaints to achieve positive solutions for customers and the restaurant.
 
 ## Hobbies
 
