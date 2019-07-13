@@ -52,3 +52,4 @@ Responsible for meeting and greeting customers and taking orders. Communicating 
 
 - [GitHub](http://github.com/KierepkaE)
 - [Codewars](http://codewars.com/users/KierepkaE)
+- [LinkedIn](http://linkedin.com/in/kierepkae/)
