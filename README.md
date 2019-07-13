@@ -47,3 +47,8 @@ Responsible for meeting and greeting customers and taking orders. Communicating 
 - dressage
 - bass guitar
 - weight lifting
+
+## Contact
+
+- [GitHub](http://github.com/KierepkaE)
+- [Codewars](http://codewars.com/users/KierepkaE)
