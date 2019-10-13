@@ -21,7 +21,7 @@ As I was studying towards my Nursing degree I had to team up with the other stud
 |---        |---         |---           |
 | [Happy Chappy](https://github.com/KierepkaE/HappyChappy) | A mood tracker/chatbot app that allows you to keep track of your daily mood and let you speak to other people feeling the same in the chatroom | Rails, RSpec/Capybara, React, Jest ,Heroku, Travis CI|
 |[Fav Note](https://kierepkae.github.io/FavNote/)| One of my first React project. Simple app that let's you save your favourite links, articles and twitters | React, React Router, Context API|
-| [New Summary API](https://github.com/KierepkaE/news-summary-challenge) | A single page application that displays top 10 articles from Guardian API | JavaScript, Jasmine |
+| [News Summary API](https://github.com/KierepkaE/news-summary-challenge) | A single page application that displays top 10 articles from Guardian API | JavaScript, Jasmine |
 | [Acebook](https://github.com/KierepkaE/acebook-good-guys) |Group project that we done during Makers course, it is my team approach to try to clone Facebook|Rails, RSpec/Capybara, Heroku, Travis CI|
 
 ## Education
