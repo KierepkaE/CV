@@ -54,6 +54,8 @@ For several years, I organised horse-riding camps for my friends business. I was
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- React, NodeJS
+
 
 #### The State Higher Vocational School in Ciechanow (October 2015 to June 2018)
 
